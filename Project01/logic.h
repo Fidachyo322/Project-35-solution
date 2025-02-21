@@ -1,0 +1,1 @@
+double calculate_average_mark(int mark1, int mark2, int mark3);
